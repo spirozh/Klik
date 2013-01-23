@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Klik</string>
+    <string name="menu_settings">Settings</string>
+    <string name="level">spirozh.klik.level</string>
+    <string name="xp">spirozh.klik.xp</string>
+    <string name="xp_label_prefix">xp: </string>
+    <string name="level_label_prefix">Level: </string>
+    <string name="klik">Klik</string>
+    <string name="reset">Reset</string>
+
+</resources>
