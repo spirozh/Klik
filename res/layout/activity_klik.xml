@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/levelProgress"
         android:layout_alignParentLeft="true"
-        android:text="@string/level_label_prefix"
+        android:text="@string/level_prefix"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <ProgressBar
@@ -19,16 +19,16 @@
         style="?android:attr/progressBarStyleHorizontal"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/experienceLabel"
+        android:layout_above="@+id/pointsLabel"
         android:layout_alignParentLeft="true"
         android:layout_alignParentRight="true"/>
 
     <TextView
-        android:id="@+id/experienceLabel"
+        android:id="@+id/pointsLabel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
-        android:text="@string/xp_label_prefix"
+        android:text="@string/points_prefix"
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:paddingBottom="30dp"
         android:layout_centerVertical="true"  />
