@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Klik</string>
-    <string name="points">spirozh.klik.points</string>
+    <string name="points">com.spirozh.klik.points</string>
     <string name="points_prefix">points: </string>
     <string name="level_prefix">level: </string>
 </resources>

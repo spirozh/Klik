@@ -1,4 +1,4 @@
-package spirozh.klik;
+package com.spirozh.klik;
 
 import android.os.Bundle;
 import android.app.Activity;
